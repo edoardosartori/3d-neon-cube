@@ -1,4 +1,4 @@
-# 3D CSS Cube
+# Exercise - 3D CSS Cube
 
 ![demo](docs/demo.gif)
 
